@@ -192,7 +192,6 @@ def main():
                     print("Số tiền phải là số nguyên dương")
                     continue
 
-                
             case "6":
                 print("Thoát chương trình!!")
                 break
